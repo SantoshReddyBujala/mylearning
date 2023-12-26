@@ -8,3 +8,8 @@ h1{
 Button{
     background-color: #04AA6D;
 }
+
+h2{
+    color: orange;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
